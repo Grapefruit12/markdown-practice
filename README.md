@@ -73,7 +73,7 @@ _이탤릭_
 # 이미지
 
 ![]() : 기본  
-[![]]() : 이미지에 링크넣기
+[![]()]() : 이미지에 링크넣기
 
 ![STARBUCKS](https://www.starbucks.co.kr/common/img/common/logo.png)
 
@@ -94,7 +94,7 @@ _이탤릭_
 
 # 인라인 코드 강조
 
-백틱
+: 양쪽에 백틱
 
 css에서 `backgroud` 혹은 `background-image` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
 
